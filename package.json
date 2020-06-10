@@ -1,0 +1,10 @@
+{
+  "name": "vir",
+  "version": "1.0.0",
+  "description": "A crude front-end framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "h+r"
+}
